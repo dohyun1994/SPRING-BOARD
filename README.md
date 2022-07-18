@@ -2,7 +2,12 @@
 
 ### <a href="http://54.180.25.57:8080/Potal" target="_blank">스프링 프로젝트 IP 주소 : http://54.180.25.57:8080/Potal </a>
 
-[게시판 구현 과정 기록 1] (https://ajar-podium-bfa.notion.site/MVC-1-42d3bdd21f64425aa8df3bf9f26b6910) {:target="_blank"}
+[게시판 구현 과정 기록 1] https://ajar-podium-bfa.notion.site/MVC-1-42d3bdd21f64425aa8df3bf9f26b6910
+
+[게시판 구현 과정 기록 2] https://ajar-podium-bfa.notion.site/MVC-2-150ac2f458c44d40859a6279f4657b8e
+
+[게시판 구현 과정 기록 3] https://ajar-podium-bfa.notion.site/MVC-3-72310804adac40298d0b78894aa69148
+
 
 
 

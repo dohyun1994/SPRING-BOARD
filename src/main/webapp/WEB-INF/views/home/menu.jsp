@@ -10,9 +10,6 @@
 <body>
 	<div align="center">
 		<div>
-			<br>
-		</div>
-		<div>
 			<!-- 메뉴부분 -->
 			<ul>
 				<li><a class="active" href="home.do">Home</a></li>
@@ -24,8 +21,6 @@
 					<li><a href="memberLogout.do">LogOut</a></li>		<!--  로그아웃 페이지를 보여줘야 된다. -->
 					<li><a href="memberInfo.do">My Info</a></li>	
 					<li><a href="noticeList.do">Notice</a></li>		<!--  로그인 되어있을 때 글쓰기 권한 설정. -->
-					<li><a href="#">Product</a></li>
-					<li><a href="#">Service</a></li>
 				</c:if>
 				
 				<c:if test="${id eq null }">

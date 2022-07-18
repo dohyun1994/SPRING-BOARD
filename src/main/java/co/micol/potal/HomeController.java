@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("/home.do")	// post, get 방식 모두 처리 가능.
 	public String home() {
 	
-		return "home/home";
+		return "home/home2";
 	}
 	
 }

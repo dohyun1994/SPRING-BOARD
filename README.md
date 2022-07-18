@@ -1,5 +1,6 @@
 # SPRING-BOARD
 ### IP 주소 : http://54.180.25.57:8080/Potal
+<a href="http://54.180.25.57:8080/Potal" target="_blank">스프링 프로젝트 IP 주소 : http://54.180.25.57:8080/Potal </a>
 
 ![image](https://user-images.githubusercontent.com/88605278/179525888-5a25ab0b-8198-4781-aae4-77d9cea98d99.png)
 

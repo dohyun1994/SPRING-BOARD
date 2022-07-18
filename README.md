@@ -13,3 +13,5 @@
 8. 전달 받은 View가 있다면 View에게 전달된 결과(처리된 데이터)를 전달한다.
 9. View는 전달받은 결과(처리된 데이터)를 다시 DispatcherServlet에게 전달한다.
 10. DispatcherServlet은 전달받은 결과(처리된 데이터)를 클라이언트에게 전달한다.
+
+출처: https://min-it.tistory.com/7 [MIN-IT:티스토리]

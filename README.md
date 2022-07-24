@@ -1,6 +1,6 @@
 # SPRING-BOARD
 
-### <a href="http://15.165.161.109/:8080/Potal" target="_blank">스프링 프로젝트 IP 주소 : http://54.180.25.57:8080/Potal </a>
+### <a href="http://15.165.161.109/:8080/Potal" target="_blank">스프링 프로젝트 IP 주소 : http://15.165.161.109:8080/Potal </a>
 
 [게시판 구현 과정 기록 1] https://ajar-podium-bfa.notion.site/MVC-1-42d3bdd21f64425aa8df3bf9f26b6910
 
